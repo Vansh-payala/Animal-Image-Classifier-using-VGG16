@@ -1,5 +1,6 @@
 # Animal-Image-Classifier-using-VGG16
 Objective: Classify images of animals into 10 categories using a fine-tuned VGG16 model.
+
 Steps:
 1) Data Preprocessing
 2) Model Architecture
